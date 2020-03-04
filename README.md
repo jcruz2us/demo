@@ -22,6 +22,11 @@ Deployed onto a local [`Docker Desktop Kubernetes cluster`](https://docs.docker.
 Deploys & File watching are handled by [`skaffold`](https://github.com/GoogleContainerTools/skaffold)
 
 
+### Useful links
+https://dev.to/pozo/continuous-development-with-java-and-kubernetes-3d08
+https://start.spring.io/
+
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 
